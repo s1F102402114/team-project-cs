@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+}
+
+div#leftside{
+    width: 45%;
+    float: left;
+}
+
+div#rightside{
+    width: 45%;
+    float: right;
+}
