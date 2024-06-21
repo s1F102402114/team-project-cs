@@ -3,11 +3,12 @@ h1{
 }
 
 div#leftside{
-    width: 45%;
+    width: 55%;
     float: left;
+    padding: 20px;
 }
 
 div#rightside{
-    width: 45%;
+    width: 38%;
     float: right;
 }
